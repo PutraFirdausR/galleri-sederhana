@@ -23,7 +23,7 @@ galleri-sederhana/
 └── README.md           # Dokumentasi proyek
 ```
 
-💻 Cara Menjalankan Secara Lokal
+## 💻 Cara Menjalankan Secara Lokal
 Proyek ini adalah web statis, jadi kamu tidak perlu menginstal server atau aplikasi khusus (seperti Node.js) untuk menjalankannya. Cukup ikuti langkah berikut:
 
 Clone repositori ini:
