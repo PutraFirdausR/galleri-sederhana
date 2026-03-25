@@ -30,9 +30,9 @@ Clone repositori ini:
 
 ```bash
 git clone [https://github.com/PutraFirdausR/galleri-sederhana.git](https://github.com/PutraFirdausR/galleri-sederhana.git)
-Buka folder proyek:
 ```
 
+Buka folder proyek:
 ```bash
 cd galleri-sederhana
 ```
