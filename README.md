@@ -1,38 +1,38 @@
-# 🖼️ Galeri Sederhana
+# 🖼️ Simple Gallery
 
-Selamat datang di proyek **Galeri Sederhana**! 
-Repositori ini berisi kode sumber untuk sebuah halaman web galeri foto/gambar yang ringan, rapi, dan mudah disesuaikan. Proyek ini dibangun sepenuhnya menggunakan HTML dasar dan CSS tanpa tambahan *framework* eksternal, sehingga sangat cocok untuk pemula yang ingin belajar *styling* antarmuka web.
+Welcome to the **Simple Gallery** project!
+This repository contains the source code for a lightweight, clean, and easily customizable photo/image gallery website. The project is built entirely using basic HTML and CSS without any external frameworks, making it perfect for beginners who want to learn how to style a web interface.
 
-## 🚀 Fitur
-- **Tata Letak Rapi:** Menampilkan gambar dengan susunan *grid* atau *flexbox* yang tertata dengan baik.
-- **Ringan & Cepat:** Karena tidak menggunakan *library* atau *framework* pihak ketiga (seperti Bootstrap/Tailwind), halaman akan dimuat dengan sangat cepat.
-- **Mudah Disesuaikan:** Kode sangat terstruktur sehingga mudah untuk mengganti gambar atau mengubah warna tema.
+## 🚀 Features
+- **Clean Layout:** Displays images in a well-organized grid or flexbox layout.
+- **Lightweight & Fast:** Because it doesn't use any third-party libraries or frameworks (like Bootstrap/Tailwind), the page loads very quickly.
+- **Easy to Customize:** The code is well-structured, making it easy to replace images or change theme colors.
 
-## 🛠️ Teknologi yang Digunakan
-- **HTML5** (Struktur halaman web: `index.html`)
-- **CSS3** (Styling dan desain: `style.css` & `reset.css`)
+## 🛠️ Technologies Used
+- HTML5 (Web page structure: `index.html`)
+- CSS3 (Styling and design: `style.css` & `reset.css`)
 
-## 📂 Struktur Folder
-Berikut adalah struktur direktori dalam proyek ini:
+## 📂 Folder Structure
+Here is the directory structure of this project:
 ```text
 galleri-sederhana/
-├── img/                # Folder berisi kumpulan gambar yang ditampilkan di galeri
-├── index.html          # Halaman utama web galeri
-├── reset.css           # File CSS untuk mereset styling bawaan browser
-├── style.css           # File CSS utama untuk mendesain tampilan galeri
-└── README.md           # Dokumentasi proyek
+├── img/ # Folder containing a collection of images displayed in the gallery
+├── index.html # Home page of the gallery
+├── reset.css # CSS file to reset the browser's default styling
+├── style.css # Main CSS file for designing the gallery's appearance
+└── README.md # Project documentation
 ```
 
-## 💻 Cara Menjalankan Secara Lokal
-Proyek ini adalah web statis, jadi kamu tidak perlu menginstal server atau aplikasi khusus (seperti Node.js) untuk menjalankannya. Cukup ikuti langkah berikut:
+## 💻 How to Run Locally
+This project is a static website, so you don't need to install a server or special application (such as Node.js) to run it. Simply follow these steps:
 
-Clone repositori ini:
+Clone this repository:
 
 ```bash
 git clone [https://github.com/PutraFirdausR/galleri-sederhana.git](https://github.com/PutraFirdausR/galleri-sederhana.git)
 ```
 
-Buka folder proyek:
+Open the project folder:
 ```bash
-cd galleri-sederhana
+cd gallery-sederhana
 ```
